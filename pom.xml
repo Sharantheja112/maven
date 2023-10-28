@@ -84,6 +84,5 @@
       <url>http://ec2-35-154-116-64.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/maven-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
-    ...
   </distributionManagement>
 </project>
